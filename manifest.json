@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Project: Glint System Alpha",
+        "name": "My Custom Dev Pack 04",
+        "uuid": "220360ed-e439-42e1-9f6e-586d3defe659",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "Resource Module",
+            "type": "resources",
+            "uuid": "28db40e2-a99a-4d4c-8e1a-f5dcf9056deb",
+            "version": [0, 0, 1]
+        }
+    ]
+}
